@@ -81,7 +81,7 @@ Metrik evaluasi yang digunakan:
 ---
 
 ## 📎 Sumber Data
-Dataset: [QS World University Rankings 2025](https://www.topuniversities.com/university-rankings/world-university-rankings/2025)
+Dataset: [QS World University Rankings 2025](https://www.kaggle.com/datasets/melissamonfared/qs-world-university-rankings-2025)
 
 ---
 
