@@ -48,6 +48,30 @@ Proyek ini bertujuan untuk menganalisis dan mengeksplorasi data **QS World Unive
 - One-Hot Encoding kolom kategorik
 
 ---
+## 3 Modeling
+
+Kami menggunakan tiga algoritma regresi:
+
+1. **Linear Regression**
+   - Model baseline yang sederhana.
+   - Mengasumsikan hubungan linier antara fitur dan target.
+
+2. **Random Forest Regressor**
+   - Model ensambel berbasis decision tree.
+   - Cocok untuk hubungan non-linear dan menangani overfitting dengan baik.
+
+3. **XGBoost Regressor**
+   - Gradient boosting framework yang sangat powerful.
+   - Menyediakan kontrol regularisasi dan kecepatan pelatihan tinggi.
+
+---
+
+## 4 Evaluasi
+
+Metrik evaluasi yang digunakan:
+
+- **R² Score**: Seberapa baik model menjelaskan variasi data.
+- **Mean Squared Error (MSE)**: Rata-rata kuadrat selisih antara prediksi dan nilai asli.
 
 ## 📌 Insight Menarik
 - Banyak universitas riset berada di region Eropa dan Asia.
