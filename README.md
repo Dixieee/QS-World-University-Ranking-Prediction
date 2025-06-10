@@ -107,5 +107,5 @@ Tahapan selanjutnya : Pembuatan Poster
 ---
 
 ## 🏁 Lisensi
-Proyek ini dibuat untuk keperluan edukasi dalam mata kuliah analisis data/statistika.
+Proyek ini dibuat untuk keperluan edukasi dalam mata penambangan data.
 
