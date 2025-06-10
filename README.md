@@ -29,7 +29,6 @@ Proyek ini bertujuan untuk menganalisis dan mengeksplorasi data **QS World Unive
 
 ### 1. Exploratory Data Analysis (EDA)
 - Menampilkan informasi umum dan missing value
-- Visualisasi distribusi skor terhadap `RANK_2025`
 - Bar chart distribusi fokus riset per region
 - Heatmap fokus universitas riset berdasarkan region
 - Barplot Top 20 universitas berdasarkan Overall Score
